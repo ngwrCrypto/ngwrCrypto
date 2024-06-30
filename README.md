@@ -1,10 +1,20 @@
-# Ihor Onofriichuk
+# 💻 Ihor Onofriichuk
 
 Hello,
 
 My name is Ihor Onofriichuk, and I am a passionate backend developer with a rich background in technology and a relentless drive for excellence. At 23 years old, I bring four years of development experience to the table, including two years of impactful commercial work at esteemed companies like Avivi.pro and BeFund, alongside a plethora of successful freelance projects.
 
 ## Professional Background
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Move](https://img.shields.io/badge/Move-blue?style=for-the-badge)
 
 ### Core Technologies:
 - **Python**: Proficient in Django, Django REST, FastAPI, and Flask.
