@@ -2,7 +2,7 @@
 
 Hello,
 
-My name is Ihor Onofriichuk, and I am a passionate backend developer with a rich background in technology and a relentless drive for excellence. At 23 years old, I bring four years of development experience to the table, including two years of impactful commercial work at esteemed companies like Avivi.pro and BeFund, alongside a plethora of successful freelance projects.
+My name is Ihor Onofriichuk, and I am a passionate backend developer with a rich background in technology and a relentless drive for excellence. At 25 years old, I bring four years of development experience to the table, including 4 years of impactful commercial work at esteemed companies like Avivi.pro and BeFund, alongside a plethora of successful freelance projects.
 
 ## Professional Background
 
